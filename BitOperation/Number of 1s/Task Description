@@ -1,0 +1,11 @@
+Task Description
+
+Write a program to compute the number of 1's in their binary representation. For example 7 has three 1's since its binary representation is 00000111. 25 also has three ones because its binary representation is 00011001.
+
+Input
+
+A set of positive integers no more than 2147483647, one per line. You must process them until EOF.
+
+Output
+
+The number of 1's in the binary representation of the input integer, one per line.
