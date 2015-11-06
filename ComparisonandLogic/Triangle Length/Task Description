@@ -1,0 +1,11 @@
+Task Description
+
+Write a program to print 1 if the three positive integers a, b, and c are valid lengths of a triangle, print 0 otherwise. We can verify the condition by assuring that all a, b, and c are positive, and the sum of any two of them is greater than the third.
+
+Input Format
+
+There are three lines in the input. The first line has the integer a, the second line has the integer b, and the third line has the integer c.
+
+Output Format
+
+There are one line in the output. The line has 1 if the lengths are valid, 0 otherwise.

@@ -1,0 +1,11 @@
+Task Description
+
+Write a program to print 0 if the input x is a multiple of 3, and a multiple of 5, but not a multiple of 7. Otherwise just print 1.
+
+Input Format
+
+There is one line in the input. The line has a number x.
+
+Output Format
+
+There is one line in the output. The line has 0 if the input x is a multiple of 3, and a multiple of 5, but not a multiple of 7. Otherwise the output is 1.

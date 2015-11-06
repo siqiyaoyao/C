@@ -1,0 +1,12 @@
+Task Description
+
+Given a convex quadrilateral Q, please determine if the origin (0,0) is with Q. For example, if Q has four corners (2,1), (−1,2), (−2,−1), and (−1,−3) then the answer is yes. If Q is (12,1), (9,2), (8,−1), and (9,−3) then the answer is no.
+
+Input
+
+The input consists of eight integers, a,b,c,d,e,f,g, and h, representing the four corners (a,b),(c,d),(e,f), and (g,h) in counterclockwise order. It is guaranteed that the four sides of the Q will not be parallel to either x or y axis, and will not contain the origin. The absolute value of all numbers is no more than 100.
+
+Output
+
+The output is either 1 or 0, representing that the origin is within or not within Q.
+
